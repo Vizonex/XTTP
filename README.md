@@ -4,7 +4,7 @@ A powerful Http Socket python library made with Cython / C++ and an alternative 
 
 
 - [x] make XTTP Writer in C++
-- [] program XTTP Reader in C++
-- [] Build Cython library 
-- [] Make a stable bridge to python for python users to use
-- [] Add to pypi when first stable version releases 
+- [ ] program XTTP Reader in C++
+- [ ] Build Cython library 
+- [ ] Make a stable bridge to python for python users to use
+- [ ] Add to pypi when first stable version releases 
