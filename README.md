@@ -17,7 +17,7 @@ A powerful Http Socket python library made with Cython / C++ as an alternative l
 - No External third party libraries 
 - To my knowlege I've tested Xttp.h on windows and it works 
 - No Need to Use Cmake to compile header files so the Stress can be cut on having to find out what arch-id matches your computer when compiling. 
-- you can make your own premade headers to merge with the struct variables in C++
+- you can make your own premade http-headers to merge with the struct variables in C++
 
 ## Includes 
 
