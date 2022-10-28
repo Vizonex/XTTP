@@ -1,6 +1,6 @@
 ![alt-text](https://github.com/Vizonex/XTTP/blob/main/XTTP.png)
 # XTTP
-A powerful Http Socket python library made with C++ as an alternative library for http parsing if you were unable to use llhttp with nodejs and didn't want to download someting you weren't very familliar of , really care about speed and performance and you need to go low level but you also desire some stability.  
+A powerful Http Socket library inspired by python's httplib client made with C++ as an alternative library for http parsing if you were unable to use llhttp with nodejs and didn't want to download someting you weren't very familliar of , really care about speed and performance and you need to go low level but you also desire some stability.  
 
 
 ## Completed so far
